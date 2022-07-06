@@ -63,7 +63,7 @@
 
 ![](https://s3.bmp.ovh/imgs/2022/07/06/559c2a76ae832685.png)
 
-![](https://s3.bmp.ovh/imgs/2022/07/06/631230d15ea8e350.png)
+![](https://s3.bmp.ovh/imgs/2022/07/06/41ae719c46db8acd.jpg)
 
 title可随意填写，key 填写刚才复制的 id_rsa.pub的内容
 
