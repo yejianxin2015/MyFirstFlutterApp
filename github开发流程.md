@@ -36,7 +36,7 @@
 
 ### SSH配置
 
-1.  检查是否已SSH KEY, 如果已存在，可直接添加到 github
+1.  检查是否已存在SSH key, 如果已存在，可直接添加到 github
 
     ```
     cd ~/.ssh   #windows的路径一般在C:\Users\Administrator.ssh下
