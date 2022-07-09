@@ -1,7 +1,11 @@
+import 'package:demo/Index_Page.dart';
 import "package:flutter/material.dart";
-import 'bottom_navigation_widget.dart';
+//import 'bottom_navigation_widget.dart';
+//import 'Home_Page.dart';
+//import 'cart_page.dart';
 
 void main() => runApp(new MyApp());
+
 
 class MyApp extends StatelessWidget {
 
@@ -10,7 +14,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title:'Flutter bottomNavigationBar',
       theme:ThemeData.light(),
-      home:BottomNavigationWidget()
+      home:IndexPage()
     );
   }
 }
+
