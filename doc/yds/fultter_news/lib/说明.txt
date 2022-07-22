@@ -1,0 +1,20 @@
+1、tabs中包含了主要的三个页面，Home.dart（首页），ListDemo.dart（列表），
+Setting.dart（设置）
+
+2、Detail.dart是详细页面，通过ListDemo（列表页）进入
+
+3、DetailList_delete.dart是用 CheckboxListTile写的一个列表，本来是想实现删除功能的，
+但还没有实现
+
+4、Login.dart登录页，通过Setting.dart（设置页）点击“跳转到登录页面”进入，
+这个页面使用的别人的http实现的，所以数据不好用，就是用这个网址模拟的
+（http://www.liulongbin.top:3006/api/getbooks）
+
+5、Login_test.dart就是用的死数据了，数据在res中的users.dart
+
+6、Tabs.dart就是用于底部导航
+
+7、res中放数据的goods.dart用于首页的数据，newsData.dart是列表页的，users.dart是
+登录那里的数据
+
+8、routes中的Routes.dart是存放命名路由的
